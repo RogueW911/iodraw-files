@@ -28,11 +28,14 @@
         <mxCell id="YY3hsp56N71hQkCCMso6-2" value="Crossover &amp;amp; Mutation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="230" y="370" width="130" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="YY3hsp56N71hQkCCMso6-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YY3hsp56N71hQkCCMso6-3" target="YY3hsp56N71hQkCCMso6-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YY3hsp56N71hQkCCMso6-3" value="Evaluate the fitness of each offspring" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="235" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YY3hsp56N71hQkCCMso6-6" value="Stopping criteria reached?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="540" y="540" width="160" height="80" as="geometry" />
+          <mxGeometry x="215" y="530" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YY3hsp56N71hQkCCMso6-7" value="Optimal design" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="245" y="630" width="90" height="50" as="geometry" />
