@@ -13,7 +13,7 @@
         <mxCell id="WZE55TgVYspru3rI6SOo-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WZE55TgVYspru3rI6SOo-2" target="WZE55TgVYspru3rI6SOo-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WZE55TgVYspru3rI6SOo-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WZE55TgVYspru3rI6SOo-2" value="Fleet&lt;div&gt;Assignment&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WZE55TgVYspru3rI6SOo-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WZE55TgVYspru3rI6SOo-4" target="WZE55TgVYspru3rI6SOo-6">
