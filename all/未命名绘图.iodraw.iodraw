@@ -39,7 +39,7 @@
         </mxCell>
         <mxCell id="YY3hsp56N71hQkCCMso6-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YY3hsp56N71hQkCCMso6-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="170" y="280" as="targetPoint" />
+            <mxPoint x="295" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YY3hsp56N71hQkCCMso6-6" value="Stopping criteria reached?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
