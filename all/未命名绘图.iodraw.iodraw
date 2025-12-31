@@ -11,7 +11,13 @@
           <mxGeometry x="210" y="180" width="250" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YY3hsp56N71hQkCCMso6-1" value="Select individuals with high quality" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="350" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YY3hsp56N71hQkCCMso6-2" value="Select individuals with high quality" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YY3hsp56N71hQkCCMso6-3" value="Select individuals with high quality" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="780" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
