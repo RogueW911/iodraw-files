@@ -17,10 +17,13 @@
           <mxGeometry x="190" y="190" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YY3hsp56N71hQkCCMso6-1" value="Select individuals with high quality" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="235" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YY3hsp56N71hQkCCMso6-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YY3hsp56N71hQkCCMso6-2" target="YY3hsp56N71hQkCCMso6-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YY3hsp56N71hQkCCMso6-2" value="Crossover &amp;amp; Mutation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="230" y="370" width="130" height="60" as="geometry" />
+          <mxGeometry x="230" y="300" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YY3hsp56N71hQkCCMso6-3" value="Evaluate the fitness of each offspring" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="235" y="450" width="120" height="60" as="geometry" />
