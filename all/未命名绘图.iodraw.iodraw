@@ -22,7 +22,7 @@
         <mxCell id="WZE55TgVYspru3rI6SOo-4" value="Aircraft&lt;div&gt;Routing&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WZE55TgVYspru3rI6SOo-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WZE55TgVYspru3rI6SOo-6" value="Crew&lt;div&gt;Scheduling&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
