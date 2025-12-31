@@ -16,13 +16,11 @@
         <mxCell id="YY3hsp56N71hQkCCMso6-2" value="Crossover &amp;amp; Mutation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="580" y="200" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YY3hsp56N71hQkCCMso6-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YY3hsp56N71hQkCCMso6-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="840" y="130" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="YY3hsp56N71hQkCCMso6-3" value="Evaluate the fitness of each offspring" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="820" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="740" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YY3hsp56N71hQkCCMso6-6" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="290" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
