@@ -10,8 +10,14 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Generate initial population" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="235" y="130" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="YY3hsp56N71hQkCCMso6-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-11" target="YY3hsp56N71hQkCCMso6-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="Evaluate the fitness of each individual&lt;div&gt;using sample average approximation&lt;/div&gt;&lt;div&gt;with Monte Carlo method&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="190" y="190" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YY3hsp56N71hQkCCMso6-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YY3hsp56N71hQkCCMso6-1" target="YY3hsp56N71hQkCCMso6-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YY3hsp56N71hQkCCMso6-1" value="Select individuals with high quality" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="235" y="290" width="120" height="60" as="geometry" />
