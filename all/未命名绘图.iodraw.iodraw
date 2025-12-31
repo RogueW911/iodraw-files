@@ -19,8 +19,8 @@
         <mxCell id="YY3hsp56N71hQkCCMso6-3" value="Evaluate the fitness of each offspring" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="740" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YY3hsp56N71hQkCCMso6-6" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="370" y="290" width="80" height="80" as="geometry" />
+        <mxCell id="YY3hsp56N71hQkCCMso6-6" value="Stopping criteria reached?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="890" y="190" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
