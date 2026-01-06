@@ -31,8 +31,8 @@
             <mxPoint x="430" y="566" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YtJLbQcynlYcTBkrPSGB-13" value="List Item" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="570" width="80" height="30" as="geometry" />
+        <mxCell id="YtJLbQcynlYcTBkrPSGB-14" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="370" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
