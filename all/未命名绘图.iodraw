@@ -46,9 +46,6 @@
         <mxCell id="YtJLbQcynlYcTBkrPSGB-18" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;i&gt;p&lt;/i&gt;&lt;sub style=&quot;&quot;&gt;1&lt;/sub&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="460" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YtJLbQcynlYcTBkrPSGB-19" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;i style=&quot;font-size: 25px;&quot;&gt;y&lt;/i&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;sub&gt;2&lt;/sub&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="460" y="580" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="YtJLbQcynlYcTBkrPSGB-20" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;i&gt;p&lt;/i&gt;&lt;sub style=&quot;&quot;&gt;2&lt;/sub&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="410" y="460" width="60" height="30" as="geometry" />
         </mxCell>
